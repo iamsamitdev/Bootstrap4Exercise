@@ -1,0 +1,12 @@
+Brand::
+===============
+KOS Design Studio
+
+CopyRight::
+===============
+&copy; CopyRight 2017-2018 ITGENIUS
+This site control by genius company limited.
+
+Background Color
+===============
+saddlebrown
